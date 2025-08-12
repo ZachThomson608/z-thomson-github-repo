@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+error_agent_data.log
+
+# Environment
+.env
+.venv/
+venv/
+env/
+*.env
+
+# Streamlit secrets (only if using AWS Secrets Manager or keeping local secure)
+.streamlit/secrets.toml
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+
+# IDE config
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Compiled C extensions
+*.so
+
+# Cache
+.cache/
+*.sqlite3

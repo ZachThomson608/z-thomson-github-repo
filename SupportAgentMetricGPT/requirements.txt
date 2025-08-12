@@ -1,7 +1,23 @@
-streamlit
+# --- Core dependencies ---
+streamlit>=1.27
 pandas
-openai
+python-dotenv
+openai>=1.0.0
+
+# --- Tableau API ---
+tableau-api-lib
+
+# --- Google Sheets (if you ever use it again)
 gspread
 oauth2client
-tableau-api-lib
-python-dotenv
+
+# --- AWS Secrets Manager support ---
+boto3
+
+# --- Security (password hashing) ---
+hashlib
+
+# --- Logging ---
+logging
+
+# --- Used in .streamlit/secrets.toml (not in pypi but for local secrets loading)

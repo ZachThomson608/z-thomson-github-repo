@@ -1,0 +1,7 @@
+streamlit>=1.24
+openai>=1.0.0
+pandas
+python-dotenv
+tableau-api-lib
+gspread
+oauth2client

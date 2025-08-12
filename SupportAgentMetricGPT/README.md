@@ -91,7 +91,7 @@ You can create test mappings like:
 
 ```json
 {
-  "d.troshina@fetchrewards.com": ["Abi Flora", "Axel Munoz", "Josh DeWitt"]
+  "fake@fetchrewards.com": ["John Doe", "John Doee", "John Doeee"]
 }
 ```
 

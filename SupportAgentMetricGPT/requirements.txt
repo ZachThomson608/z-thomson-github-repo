@@ -1,8 +1,7 @@
-SupportAgentMetricGPT/
-├── main.py
-├── requirements.txt
-├── .streamlit/
-│   └── secrets.toml
-├── users.json
-├── EMAIL_TO_AGENTS.json
-└── README.md
+streamlit
+pandas
+openai
+gspread
+oauth2client
+tableau-api-lib
+python-dotenv
